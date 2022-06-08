@@ -1,0 +1,147 @@
+id: IF584E98D
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-31T12:43:09+00:00'
+last_modified: '2022-06-08T02:26:50.398942+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W21727
+  title: རིག་འཛིན་པདམ་གླིང་པའི་ཟབ་གཏེར་ཆོས་མཛོད་རིན་པོ་ཆེ།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  base:
+    47D2:
+      image_group_id: I1905
+      title: ''
+      total_pages: 905
+      order: 1
+      base_file: 47D2.txt
+    '4761':
+      image_group_id: I1906
+      title: ''
+      total_pages: 966
+      order: 2
+      base_file: 4761.txt
+    C984:
+      image_group_id: I1907
+      title: ''
+      total_pages: 773
+      order: 3
+      base_file: C984.txt
+    2BD8:
+      image_group_id: I1908
+      title: ''
+      total_pages: 483
+      order: 4
+      base_file: 2BD8.txt
+    1A8A:
+      image_group_id: I1909
+      title: ''
+      total_pages: 537
+      order: 5
+      base_file: 1A8A.txt
+    BA68:
+      image_group_id: I1910
+      title: ''
+      total_pages: 745
+      order: 6
+      base_file: BA68.txt
+    5FAE:
+      image_group_id: I1911
+      title: ''
+      total_pages: 591
+      order: 7
+      base_file: 5FAE.txt
+    036C:
+      image_group_id: I1912
+      title: ''
+      total_pages: 347
+      order: 8
+      base_file: 036C.txt
+    '8886':
+      image_group_id: I1913
+      title: ''
+      total_pages: 545
+      order: 9
+      base_file: 8886.txt
+    FEE0:
+      image_group_id: I1914
+      title: ''
+      total_pages: 689
+      order: 10
+      base_file: FEE0.txt
+    '1417':
+      image_group_id: I1915
+      title: ''
+      total_pages: 633
+      order: 11
+      base_file: 1417.txt
+    '1772':
+      image_group_id: I1916
+      title: ''
+      total_pages: 315
+      order: 12
+      base_file: 1772.txt
+    C46A:
+      image_group_id: I1917
+      title: ''
+      total_pages: 629
+      order: 13
+      base_file: C46A.txt
+    A6F3:
+      image_group_id: I1918
+      title: ''
+      total_pages: 635
+      order: 14
+      base_file: A6F3.txt
+    E8F8:
+      image_group_id: I1919
+      title: ''
+      total_pages: 673
+      order: 15
+      base_file: E8F8.txt
+    22FF:
+      image_group_id: I1920
+      title: ''
+      total_pages: 389
+      order: 16
+      base_file: 22FF.txt
+    33C1:
+      image_group_id: I1921
+      title: ''
+      total_pages: 527
+      order: 17
+      base_file: 33C1.txt
+    5ECD:
+      image_group_id: I1922
+      title: ''
+      total_pages: 629
+      order: 18
+      base_file: 5ECD.txt
+    F409:
+      image_group_id: I1923
+      title: ''
+      total_pages: 945
+      order: 19
+      base_file: F409.txt
+    4BD3:
+      image_group_id: I1924
+      title: ''
+      total_pages: 199
+      order: 20
+      base_file: 4BD3.txt
+    CBDE:
+      image_group_id: I1925
+      title: ''
+      total_pages: 915
+      order: 21
+      base_file: CBDE.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
