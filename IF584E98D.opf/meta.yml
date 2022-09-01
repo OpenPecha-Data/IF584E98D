@@ -1,147 +1,230 @@
 id: IF584E98D
+legacy_id: P004631
+ocr_import_info:
+  bdrc_scan_id: W21727
+  source: bdrc
+  ocr_info:
+    timestamp: '2021-01-13T07:30:16'
+    imagesfolder: images
+  batch_id: batch001
+  software_id: vision
+  expected_default_language: bo
+  op_import_options: {}
+  op_import_version: 1.0.0
+default_language: bo
 source: https://library.bdrc.io
 source_file: null
 initial_creation_type: ocr
-imported: '2020-03-31T12:43:09+00:00'
-last_modified: '2022-06-08T02:26:50.398942+00:00'
-parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+imported: '2022-09-01T14:20:25.714748+00:00'
+last_modified: 2022-09-01 22:22:19.578048
+parser: https://github.com/OpenPecha/Toolkit/blob/7f57883d84bc10351527a49ee6ce970ace404e50/openpecha/formatters/google_ocr.py
 source_metadata:
-  id: bdr:W21727
-  title: རིག་འཛིན་པདམ་གླིང་པའི་ཟབ་གཏེར་ཆོས་མཛོད་རིན་པོ་ཆེ།
-  author: ''
+  id: http://purl.bdrc.io/resource/W21727
+  status: http://purl.bdrc.io/admindata/StatusReleased
   access: http://purl.bdrc.io/admindata/AccessOpen
-  restrictedInChina: false
-  base:
-    47D2:
-      image_group_id: I1905
-      title: ''
+  reproduction_of: http://purl.bdrc.io/resource/MW21727
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: rig 'dzin padma gling pa'i zab gter chos mdzod rin po che/
+  author: པདྨ་གླིང་པ།
+statistics:
+  ocr_word_mean_confidence_index: 0.753297059751996
+  ocr_word_median_confidence_index: 0.8399999737739563
+quality: null
+bases:
+  I1905:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1905
       total_pages: 905
-      order: 1
-      base_file: 47D2.txt
-    '4761':
-      image_group_id: I1906
-      title: ''
-      total_pages: 966
-      order: 2
-      base_file: 4761.txt
-    C984:
-      image_group_id: I1907
-      title: ''
-      total_pages: 773
-      order: 3
-      base_file: C984.txt
-    2BD8:
-      image_group_id: I1908
-      title: ''
-      total_pages: 483
-      order: 4
-      base_file: 2BD8.txt
-    1A8A:
-      image_group_id: I1909
-      title: ''
-      total_pages: 537
-      order: 5
-      base_file: 1A8A.txt
-    BA68:
-      image_group_id: I1910
-      title: ''
-      total_pages: 745
-      order: 6
-      base_file: BA68.txt
-    5FAE:
-      image_group_id: I1911
-      title: ''
-      total_pages: 591
-      order: 7
-      base_file: 5FAE.txt
-    036C:
-      image_group_id: I1912
-      title: ''
-      total_pages: 347
-      order: 8
-      base_file: 036C.txt
-    '8886':
-      image_group_id: I1913
-      title: ''
-      total_pages: 545
-      order: 9
-      base_file: 8886.txt
-    FEE0:
-      image_group_id: I1914
-      title: ''
-      total_pages: 689
-      order: 10
-      base_file: FEE0.txt
-    '1417':
-      image_group_id: I1915
-      title: ''
-      total_pages: 633
-      order: 11
-      base_file: 1417.txt
-    '1772':
-      image_group_id: I1916
-      title: ''
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I1905.txt
+    legacy_id: v001
+  I1916:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1916
       total_pages: 315
-      order: 12
-      base_file: 1772.txt
-    C46A:
-      image_group_id: I1917
-      title: ''
-      total_pages: 629
-      order: 13
-      base_file: C46A.txt
-    A6F3:
-      image_group_id: I1918
-      title: ''
-      total_pages: 635
-      order: 14
-      base_file: A6F3.txt
-    E8F8:
-      image_group_id: I1919
-      title: ''
-      total_pages: 673
-      order: 15
-      base_file: E8F8.txt
-    22FF:
-      image_group_id: I1920
-      title: ''
-      total_pages: 389
-      order: 16
-      base_file: 22FF.txt
-    33C1:
-      image_group_id: I1921
-      title: ''
-      total_pages: 527
-      order: 17
-      base_file: 33C1.txt
-    5ECD:
-      image_group_id: I1922
-      title: ''
-      total_pages: 629
-      order: 18
-      base_file: 5ECD.txt
-    F409:
-      image_group_id: I1923
-      title: ''
-      total_pages: 945
-      order: 19
-      base_file: F409.txt
-    4BD3:
-      image_group_id: I1924
-      title: ''
+      volume_number: 12
+      volume_pages_bdrc_intro: 2
+    order: 12
+    base_file: I1916.txt
+    legacy_id: v012
+  I1924:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1924
       total_pages: 199
-      order: 20
-      base_file: 4BD3.txt
-    CBDE:
-      image_group_id: I1925
-      title: ''
+      volume_number: 20
+      volume_pages_bdrc_intro: 2
+    order: 20
+    base_file: I1924.txt
+    legacy_id: v020
+  I1906:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1906
+      total_pages: 966
+      volume_number: 2
+      volume_pages_bdrc_intro: 2
+    order: 2
+    base_file: I1906.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.8399999737739563
+      ocr_word_mean_confidence_index: 0.753297059751996
+    legacy_id: v002
+  I1921:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1921
+      total_pages: 527
+      volume_number: 17
+      volume_pages_bdrc_intro: 2
+    order: 17
+    base_file: I1921.txt
+    legacy_id: v017
+  I1918:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1918
+      total_pages: 635
+      volume_number: 14
+      volume_pages_bdrc_intro: 2
+    order: 14
+    base_file: I1918.txt
+    legacy_id: v014
+  I1925:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1925
       total_pages: 915
-      order: 21
-      base_file: CBDE.txt
-statistics: {}
-quality: {}
+      volume_number: 21
+      volume_pages_bdrc_intro: 2
+    order: 21
+    base_file: I1925.txt
+    legacy_id: v021
+  I1919:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1919
+      total_pages: 673
+      volume_number: 15
+      volume_pages_bdrc_intro: 2
+    order: 15
+    base_file: I1919.txt
+    legacy_id: v015
+  I1915:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1915
+      total_pages: 633
+      volume_number: 11
+      volume_pages_bdrc_intro: 2
+    order: 11
+    base_file: I1915.txt
+    legacy_id: v011
+  I1923:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1923
+      total_pages: 945
+      volume_number: 19
+      volume_pages_bdrc_intro: 2
+    order: 19
+    base_file: I1923.txt
+    legacy_id: v019
+  I1910:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1910
+      total_pages: 745
+      volume_number: 6
+      volume_pages_bdrc_intro: 2
+    order: 6
+    base_file: I1910.txt
+    legacy_id: v006
+  I1912:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1912
+      total_pages: 347
+      volume_number: 8
+      volume_pages_bdrc_intro: 2
+    order: 8
+    base_file: I1912.txt
+    legacy_id: v008
+  I1920:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1920
+      total_pages: 389
+      volume_number: 16
+      volume_pages_bdrc_intro: 2
+    order: 16
+    base_file: I1920.txt
+    legacy_id: v016
+  I1909:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1909
+      total_pages: 537
+      volume_number: 5
+      volume_pages_bdrc_intro: 2
+    order: 5
+    base_file: I1909.txt
+    legacy_id: v005
+  I1922:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1922
+      total_pages: 629
+      volume_number: 18
+      volume_pages_bdrc_intro: 2
+    order: 18
+    base_file: I1922.txt
+    legacy_id: v018
+  I1907:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1907
+      total_pages: 773
+      volume_number: 3
+      volume_pages_bdrc_intro: 2
+    order: 3
+    base_file: I1907.txt
+    legacy_id: v003
+  I1917:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1917
+      total_pages: 629
+      volume_number: 13
+      volume_pages_bdrc_intro: 2
+    order: 13
+    base_file: I1917.txt
+    legacy_id: v013
+  I1913:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1913
+      total_pages: 545
+      volume_number: 9
+      volume_pages_bdrc_intro: 2
+    order: 9
+    base_file: I1913.txt
+    legacy_id: v009
+  I1911:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1911
+      total_pages: 591
+      volume_number: 7
+      volume_pages_bdrc_intro: 2
+    order: 7
+    base_file: I1911.txt
+    legacy_id: v007
+  I1914:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1914
+      total_pages: 689
+      volume_number: 10
+      volume_pages_bdrc_intro: 2
+    order: 10
+    base_file: I1914.txt
+    legacy_id: v010
+  I1908:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1908
+      total_pages: 483
+      volume_number: 4
+      volume_pages_bdrc_intro: 2
+    order: 4
+    base_file: I1908.txt
+    legacy_id: v004
 copyright:
-  status: Unknown
-  notice: ''
-  info_url: null
-license: null
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
